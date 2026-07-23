@@ -38,9 +38,3 @@ Thumbs.db
 .vscode/
 .idea/
 
-# v0 sandbox internal files (safe to ignore)
-__v0_runtime_loader.js
-__v0_devtools.tsx
-__v0_jsx-dev-runtime.ts
-.snowflake/
-.v0-trash/
